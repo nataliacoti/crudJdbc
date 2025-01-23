@@ -1,0 +1,46 @@
+# Build artifacts
+bin/
+obj/
+
+# User-specific files
+*.db
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.pidb
+
+# Logs
+*.log
+
+# Environment files
+.env
+
+# VS Code
+.vscode/
+
+# Packages
+*.nupkg
+*.snupkg
+
+# Temporary files
+*.tmp
+
+# macOS system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+Desktop.ini
+
+# IDE-specific folders
+.idea/
+
+# Node modules (if applicable)
+node_modules/
+
+# Coverage reports
+coverage/
+
+# Publish output
+publish/
